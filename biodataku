@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>TOMY HASUGIAN</title>
+</head>
+<body>
+<marquee>------------------------->Halaman Web Sederhana ini Merupakan <b>"Tugas 1"</b>... Mata Kuliah <b>"Pemrogaman Web"</b><----------------------------- </marquee>
+<table width="520" border="1" align="center" cellpadding="1" cellspacing="1" bordercolor="#339900" bgcolor="violet">
+  <tr bgcolor="silver">
+    <th colspan="3" height="65">
+    <p>DATA BIODATA SAYA</p>
+    </th>
+  </tr>
+  <tr>
+    <td width="153"><b>NAMA</b></td>
+    <td width="23"><div align="center" >:</div></td>
+    <td width="326">TOMI HASUGIAN </td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td><div align="center" >:</div></td>
+    <td> 18110110</td>
+  </tr>
+  <tr>
+    <td><b>ANGKATAN</b></td>
+    <td><div align="center" >:</div></td>
+    <td>  /B</td>
+  </tr>
+  <tr>
+    <td><b>TTL</b></td>
+    <td><div align="center" >:</div></td>
+    <td> MEDAN 09 MEI 1995</td>
+  </tr>
+  <tr>
+    <td><b>ALAMAT</b></td>
+    <td><div align="center" >:</div></td>
+    <td> JL. RIMBO PANJANG</td>
+  </tr>
+  <tr>
+    <td height="175"><b>RIWAYAT PENDIDIKAN </b></td>
+    <td><div align="center" >:</div></td>
+    <td><p> A.PENDIDIKAN FORMAL </p>
+      <table width="284" align="center" bordercolor="#000000">
+      <tr>
+        <td > i  . SD/MI </td>
+        <td >:</td>
+        <td > SDN 126 DESA PERINTIS </td>
+      </tr>
+      <tr>
+        <td > ii  . SMP/MTS </td>
+        <td >:</td>
+        <td > SMPN 31 KAB.TEBO</td>
+      </tr>
+      <tr>
+        <td > iii . SMA/SMK </td>
+        <td >:</td>
+        <td > SMK TUNAS HARAPAN</td>
+      </tr>
+    </table>
+    <p > B. NON FORMAL : PMR, OSIS</p>
+  </td>
+  </tr>
+  <tr>
+    <td><b>EMAIL</b></td>
+    <td><div align="center" >:</div></td>
+    <td>tomy.khanhasugian@gmail.com</tAd>
+  </tr>
+  <tr>
+    <td><b>HOMEPAGE/BLOG</b></td>
+    <td><div align="center" >:</div></td>
+    <td> http://</td>
+  </tr>
+  <tr>
+    <td><b>HOBBY</b></td>
+    <td><div align="center" >:</div></td>
+    <td> main game</td>
+  </tr>
+  <tr bgcolor="silver">
+    <td height="23" colspan="3"><p><hr></p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DESKRIPSI PRIBADI</b></td>
+    <td align="center">:</td>
+    <td> Simple, Nice, Kindly</td>
+  </tr>
+</table>
+</body>
+</html>
